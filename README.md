@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Turkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olgunbey&label=Profile%20views&color=0e75b6&style=flat" alt="olgunbey" /> </p>
-<div> <img src="https://wakatime.com/badge/user/@olgunnsahinn"/> </div>
+<div> <img src="https://wakatime.com/badge/user/b4a5681c-7359-4578-a8e0-f680f6a5b45a.svg"/> </div>
 - 🌱 I’m currently learning **ASP.Net , C#, MSSQL**
 
 <h3 align="left">Connect with me:</h3>
