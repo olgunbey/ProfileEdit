@@ -2,7 +2,8 @@
 <h3 align="center">A passionate backend developer from Turkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olgunbey&label=Profile%20views&color=0e75b6&style=flat" alt="olgunbey" /> </p>
-<div> <img src="https://wakatime.com/badge/user/b4a5681c-7359-4578-a8e0-f680f6a5b45a.svg"/> </div>
+<a href="https://wakatime.com/@b4a5681c-7359-4578-a8e0-f680f6a5b45a"><img src="https://wakatime.com/badge/user/b4a5681c-7359-4578-a8e0-f680f6a5b45a.svg" alt="Total time coded since Aug 30 2022" /></a>
+
 - 🌱 I’m currently learning **ASP.Net , C#, MSSQL**
 
 <h3 align="left">Connect with me:</h3>
